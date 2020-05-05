@@ -1,0 +1,5 @@
+@media print{
+    .container.fill-height, .container.fill-height>.row, .v-card__text>.row {
+        display: block;
+    }
+}
